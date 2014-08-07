@@ -1,0 +1,7 @@
+To use this program correctly, you will need to specify a folder that contains at least one .jpg or .bmp file. You can control how often the program changes the wallpaper byeither making use of the interval-based scheduler (in minutes) or setting both of the Scheduled Time labels.
+
+You can also set the display style, choosing between 'Stretched', 'Tiled' or 'Centered'.
+
+The about and help menu items brings up the about and help dialog screens respectively.
+
+-- Last Updated: 12/11/2007 --

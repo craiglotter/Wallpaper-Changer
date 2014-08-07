@@ -1,0 +1,5 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ChangeWallpaper.csproj.GenerateResource.Cache
+bin\Release\SetWallpaper.exe
+obj\Release\SetWallpaper.Form1.resources
+obj\Release\SetWallpaper.exe
